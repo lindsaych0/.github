@@ -3,7 +3,7 @@ _[简体中文](https://github.com/LiteAVSDK/.github/blob/main/profile/README.zh
 
 ## Tencent Cloud Media Services 
 
-Tencent Cloud provides a one-stop audio/video solution covering video calls， live streaming, real-time communication, video-on-demand,short video, instant messaging, media processing servic, and more. 
+Tencent Cloud provides a one-stop audio/video solution covering video calls, live streaming, real-time communication, video-on-demand, short video, instant messaging, media processing service, and more. 
 
 Industry-leading technologies provide a competitive edge in entertainment, social networking, education, gaming, live streaming, and other applications
 
@@ -16,7 +16,7 @@ Choose the functionality you need, then choose the platform to download the api-
 
 > ### Audio&Video Calls
 >
-> Implement a audio&video calls application with multiple features, such as group call, muting microphone, offline call, custom ringtone etc.（Tips: currently only supported in mainland China）
+> Implement an audio & video calls application with multiple features, such as group call, muting microphone, offline call, custom ringtone, etc.（Tips: currently only supported in mainland China）
 > 
 > [[Web Doc](https://cloud.tencent.com/document/product/1640/80002)]
 [[Android Doc](https://cloud.tencent.com/document/product/1640/79992)]
@@ -25,7 +25,7 @@ Choose the functionality you need, then choose the platform to download the api-
 
 > ### Real-Time Rooms 
 >
-> Build your real-time rooms or video meetting globally within 30 minutes. 
+> Build your real-time rooms or video meetings globally within 30 minutes. 
 > 
 > [[Web SDK](https://github.com/LiteAVSDK/TRTC_Web)]
 [[Android SDK](https://github.com/LiteAVSDK/TRTC_Android)]
